@@ -1,0 +1,31 @@
+﻿Sample;Name;Type.verbatim;Type;Type.1;Light;Salinity;Altitude;Distance.sea;Latitude;Longitude;Salinity.value;Distance.center
+CUL2;Cueva Lagos bottom;Anchialine cave;cave;other;dark;ssw;0;409;29.1575;-13.4343;26.7;50
+CUL1;Cueva Lagos entrance;Anchialine cave;cave;other;dark;ssw;0;475;29.1577;-13.43656;26.7;250
+JDA_pool1;Jameos del Agua 1;Anchialine cave;cave;cave;twilight;ssw;0;250;29.1573;-13.4309;27.5;0
+JDA_pool2;Jameos del Agua 2;Anchialine cave;cave;cave;twilight;ssw;0;250;29.1573;-13.4309;27.5;0
+JDA_pool3;Jameos del Agua 3;Anchialine cave;cave;cave;twilight;ssw;0;250;29.1573;-13.4309;27.5;0
+TDA_entrada;Tunel entrance;Anchialine cave;cave;cave;twilight;ssw;0;188;29.1571;-13.4303;27.5;0
+TDA_LE;Tunel Lago Escondido;Anchialine cave;cave;cave;dark;ssw;-5;-50;29.1565;-13.4291;27.5;50
+TDA_MA;Tunel Montana;Anchialine cave;cave;cave;dark;ssw;-25;-400;29.1559;-13.4266;27.5;650
+TDA_sima;Tunel Sima;Anchialine cave;cave;cave;dark;ssw;-10;-50;29.1564;-13.4281;27.5;150
+FUC;Fuente del Chafaris;Drinking water mine/well;pond;other;light;fsw;325;2507;29.1231;-13.5084;0.88;
+CHL;Charcos Luis 2;Charco/pool;pool;other;light;ssw;1;132;29.2022;-13.4231;38;
+CHP;Charcos Punta Prieta;Charco/pool;pool;other;light;ssw;2;82;29.2011;-13.4211;38;
+CHS;Charcos Suso;Charco/pool;pool;other;light;ssw;2;36;29.1518;-13.4389;;
+CHZ;Charcos Zac;Charco/pool;pool;other;light;ssw;4;59;29.1728;-13.4266;;
+MBB;Montana Bermeja big;Charco/pool;pool;other;light;ssw;2;108;28.9612;-13.8297;28.8;
+MBS;Montana Bermeja small;Charco/pool;pool;other;light;ssw;5;407;28.9617;-13.8266;27.2;
+CSS1;Salina Cocoteros 1;Saltworks;salt;other;light;hsw;8;59;29.0604;-13.4614;95.8;
+CSS2;Salina Cocoteros 2;Saltworks;salt;other;light;hsw;8;59;29.0604;-13.4614;95.8;
+CBL;Caleton Blanco clean;Beach;sea;other;light;ssw;0;0;29.2175;-13.4424;37;
+CBC1;Caleton Blanco polluted 1;Beach;sea;other;light;ssw;0;0;29.2187;-13.4444;37;
+CBC2;Caleton Blanco polluted 2;Beach;sea;other;light;ssw;0;0;29.2187;-13.4444;37;
+CHG;Charco de Ginés;Beach;sea;other;light;ssw;2;319;28.9612;-13.5482;27.7;
+JDA_beach1;Jameos sea;Beach;sea;other;light;ssw;0;-100;29.1565;-13.4267;37;
+JDA_beach2;Jameos sea;Beach;sea;other;light;ssw;0;-100;29.1565;-13.4267;37;
+FWH;Famara water house;Drinking water mine/well;well;other;dark;bsw;21;42;29.1402;-13.5255;2.6;
+FWM;Famara water mine;Drinking water mine/well;well;other;twilight;bsw;4;65;29.1442;-13.5237;3.6;
+GAF;Galería de Famara;Drinking water mine/well;well;other;dark;bsw;31;101;29.1403;-13.5243;2.6;
+CSP;Los Cocoteros salinas (pozo);Saltworks;well;other;twilight;ssw;10;261;29.0608;-13.4638;;
+SHW;Pozo de Suso;Drinking water mine/well;well;other;twilight;fsw;290;2014;29.1446;-13.5029;0.96;
+TAB;Tabayesco;Drinking water mine/well;well;other;dark;fsw;332;2491;29.1231;-13.5086;0.88;
